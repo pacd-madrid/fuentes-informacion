@@ -1,0 +1,46 @@
+---
+title: "Fuentes de Información para la Auditoría Ciudadana"
+output: 
+  revealjs::revealjs_presentation:
+    self_contained: false
+    incremental: false
+    theme: black
+    center: true
+    transition: fade
+    previewLinks: true
+    reveal_options:
+      slideNumber: false
+      previewLinks: true
+---
+
+## Administración Central
+
+- [Portal de transparencia](http://transparencia.gob.es)
+- [Boletín oficial del Estado](https://www.boe.es/diario_boe/)
+- [Banco de España](http://www.bde.es/bde/es/)
+- [Instituto Nacional de Estadística](http://www.ine.es)
+- [Legislación](https://www.boe.es/legislacion/)
+- [Rendición de Cuentas](http://www.rendiciondecuentas.es)
+- [Contratación del Sector Público](https://contrataciondelestado.es)
+
+## Administraciones Autonómicas
+- [Boletines Oficiales Autonómicos](https://www.boe.es/legislacion/enlaces/boletines_autonomicos.php)
+- [Sindicaturas de Cuentas Autonómicas](http://www.rendiciondecuentas.es/es/informaciongeneral/controlentidades/OrganosControlExterno.html)
+
+## Administración Europea
+- [Diario Oficial de la UE](http://eur-lex.europa.eu/oj/direct-access.html?locale=es)
+- [Banco Central Europeo](https://www.ecb.europa.eu/ecb/html/index.es.html)
+- [Eurostat](http://ec.europa.eu/eurostat)
+
+<div class="notes">
+Notas del orador.
+
+- Esto es una nota de prueba
+- Esto es otranota
+
+</div>
+
+## Otras fuentes
+- [Plataforma Auditoría Ciudadana de la Deuda](http://auditoriaciudadana.net/)
+- [Observatorios Ciudadanos Municipales](http://ocmunicipal.net/observatorios/)
+- [SIELOCAL Transparencia Económica](http://www.sielocal.com/)
